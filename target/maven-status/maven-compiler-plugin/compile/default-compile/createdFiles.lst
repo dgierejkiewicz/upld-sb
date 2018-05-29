@@ -1,0 +1,11 @@
+hello/parser/FileParserService.class
+hello/storage/StorageFileNotFoundException.class
+hello/File.class
+hello/FileUploadController.class
+hello/FileRepository.class
+hello/storage/StorageException.class
+hello/storage/StorageProperties.class
+hello/storage/StorageService.class
+hello/parser/ParserService.class
+hello/Application.class
+hello/storage/FileSystemStorageService.class
